@@ -12,7 +12,9 @@ RoxygenNote: 7.2.1
 Imports: 
     broom.mixed,
     dplyr,
+    future.apply,
     lme4,
+    lmerTest,
     magrittr,
     merTools
 Suggests: 
